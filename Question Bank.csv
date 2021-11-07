@@ -1,0 +1,756 @@
+Crop,Problem,State
+ARUM,caterpillar,WEST BENGAL
+ARUM,caterpillar,ODISHA
+ARUM,aphids,WEST BENGAL
+ARUM,blight,WEST BENGAL
+ARUM,sucking pest,MADHYA PRADESH
+Acid Lime,white fly,TAMILNADU
+Acid Lime,canker,MAHARASHTRA
+Acid Lime,mealybug,WEST BENGAL
+Acid Lime,leaf miner,MAHARASHTRA
+Acid Lime,scab,WEST BENGAL
+African Sarson,aphid,MAHARASHTRA
+African Sarson,caterpillar,PUNJAB
+African Sarson,stem rot,MAHARASHTRA
+African Sarson,yellow,MAHARASHTRA
+African Sarson,Powdery mildew,MAHARASHTRA
+Almond,pode borer,BIHAR
+Almond,aphid,MADHYA PRADESH
+Almond,canker,TAMILNADU
+Almond,sucking pest,ANDHRA PRADESH
+Almond,termite,RAJASTHAN
+Aloe Vera,stem rote,WEST BENGAL
+Aloe Vera,rust,UTTAR PRADESH
+Aloe Vera,aphid,UTTAR PRADESH
+Aloe Vera,Anthracnose,TRIPURA
+Aloe Vera,aphid,RAJASTHAN
+Amarphophallus (SurankandElephant Foot Yam),collar rot,UTTAR PRADESH
+Amarphophallus (SurankandElephant Foot Yam),mosaic,KERALA
+Amarphophallus (SurankandElephant Foot Yam),leaf spot,KERALA
+Amarphophallus (SurankandElephant Foot Yam),collar rot,KERALA
+Amarphophallus (SurankandElephant Foot Yam),blight,UTTAR PRADESH
+Aonla,blight,RAJASTHAN
+Aonla,leaf roller,UTTAR PRADESH
+Aonla,yellowing,BIHAR
+Aonla,fruit borer,TAMILNADU
+Aonla,lichen,HIMACHAL PRADESH
+Apple,hail,HIMACHAL PRADESH
+Apple,scab,JAMMU AND KASHMIR
+Apple,canker,JAMMU AND KASHMIR
+Apple,Powdery mildew,HIMACHAL PRADESH
+Apple,mosaic,JAMMU AND KASHMIR
+Apricot,Powdery mildew,UTTAR PRADESH
+Apricot,collar rot,UTTARAKHAND
+Apricot,Frosty mildew,RAJASTHAN
+Apricot,root rot,KERALA
+Apricot,blight,JAMMU AND KASHMIR
+Arecanut,die back,KARNATAKA
+Arecanut,yellow,KERALA
+Arecanut,bud rot,KARNATAKA
+Arecanut,fruit rot,TAMILNADU
+Arecanut,foot rot,KARNATAKA
+Ash Gourd (Petha),mildew,ASSAM
+Ash Gourd (Petha),fly,ASSAM
+Ash Gourd (Petha),fruit borer,MAHARASHTRA
+Ash Gourd (Petha),thrips,TAMILNADU
+Ash Gourd (Petha),mosaic,TAMILNADU
+Avacado,fungal,KERALA
+Avacado,stem borer,TAMILNADU
+Avacado,nematodes,TAMILNADU
+Avacado,blight,TAMILNADU
+Avacado,stem borer,BIHAR
+BAJRA NAPIER HYBRID,shoot fly,HIMACHAL PRADESH
+BAJRA NAPIER HYBRID,grasshopper,UTTAR PRADESH
+BAJRA NAPIER HYBRID,stem borer,JAMMU AND KASHMIR
+BAJRA NAPIER HYBRID,smut,UTTAR PRADESH
+BAJRA NAPIER HYBRID,rust,HARYANA
+Banana,head rot,MAHARASHTRA
+Banana,stem rot,WEST BENGAL
+Banana,panama wilt,KARNATAKA
+Banana,leaf spot,UTTAR PRADESH
+Banana,anthracnose,TRIPURA
+Barley (Jau),Powdery mildew,MAHARASHTRA
+Barley (Jau),termite,RAJASTHAN
+Barley (Jau),yellowing,RAJASTHAN
+Barley (Jau),root rot,UTTAR PRADESH
+Barley (Jau),sucking pest,GUJARAT
+Barnyard Millet (KundiraivlliSawan,shoot fly,RAJASTHAN
+Barnyard Millet (KundiraivlliSawan,grasshopper,UTTAR PRADESH
+Barnyard Millet (KundiraivlliSawan,stem borer,RAJASTHAN
+Barnyard Millet (KundiraivlliSawan,smut,MAHARASHTRA
+Barnyard Millet (KundiraivlliSawan,rust,RAJASTHAN
+Barseem,caterpillar,PUNJAB
+Barseem,root rot,UTTAR PRADESH
+Barseem,stem rot,PUNJAB
+Barseem,root rot,HARYANA
+Barseem,caterpillar,MADHYA PRADESH
+Bay Leaf,sucking pest,TAMILNADU
+Bay Leaf,aphid,WEST BENGAL
+Bay Leaf,sucking pest,ODISHA
+Bay Leaf,anthracnose,ODISHA
+Bay Leaf,blast,WEST BENGAL
+Beans,leaf curl,ODISHA
+Beans,yellowing,BIHAR
+Beans,jassids,ODISHA
+Beans,wilt,HIMACHAL PRADESH
+Beans,wilt,ODISHA
+Beet Root (Garden BeetStock Beet),caterpillars,MADHYA PRADESH
+Beet Root (Garden BeetStock Beet),cutworm,TAMILNADU
+Beet Root (Garden BeetStock Beet),borer,ANDHRA PRADESH
+Beet Root (Garden BeetStock Beet),ants,TAMILNADU
+Beet Root (Garden BeetStock Beet),cercospora spot,TAMILNADU
+Bell Pepper,fungus,GUJARAT
+Bell Pepper,stem rot,UTTAR PRADESH
+Bell Pepper,fungal,KERALA
+Bell Pepper,Powdery mildew,JHARKAND
+Bell Pepper,sucking pest,MAHARASHTRA
+Bengal Gram (GramChick PeaKabuliChana),cutworm,UTTAR PRADESH
+Bengal Gram (GramChick PeaKabuliChana),blight,RAJASTHAN
+Bengal Gram (GramChick PeaKabuliChana),caterpillar,MAHARASHTRA
+Bengal Gram (GramChick PeaKabuliChana),wilt,CHHATTISGARH
+Bengal Gram (GramChick PeaKabuliChana),fungus,GUJARAT
+Ber,sucking pest,UTTAR PRADESH
+Ber,termite,RAJASTHAN
+Ber,fruit rot,RAJASTHAN
+Ber,die back,RAJASTHAN
+Ber,mildew,WEST BENGAL
+Betel Vine,wilt,ANDHRA PRADESH
+Betel Vine,stem rot,WEST BENGAL
+Betel Vine,root rot,ASSAM
+Betel Vine,blight,ASSAM
+Betel Vine,Powdery mildew,ASSAM
+Bhindi(OkraLadysfinger),sucking pest,WEST BENGAL
+Bhindi(OkraLadysfinger),fungal,HARYANA
+Bhindi(OkraLadysfinger),caterpillar,MAHARASHTRA
+Bhindi(OkraLadysfinger),termite,HARYANA
+Bhindi(OkraLadysfinger),aphids,ODISHA
+Bitter Gourd,stem rot,WEST BENGAL
+Bitter Gourd,white fly,WEST BENGAL
+Bitter Gourd,sucking pest,MADHYA PRADESH
+Bitter Gourd,aphid,UTTAR PRADESH
+Bitter Gourd,mite,WEST BENGAL
+Black Gram (urd bean),mosaic,UTTAR PRADESH
+Black Gram (urd bean),sucking pest,MADHYA PRADESH
+Black Gram (urd bean),white fly,MADHYA PRADESH
+Black Gram (urd bean),caterpiller,ANDHRA PRADESH
+Black Gram (urd bean),blight,ANDHRA PRADESH
+Bottle Gourd,Anthracnose,UTTAR PRADESH
+Bottle Gourd,leaf spot,UTTAR PRADESH
+Bottle Gourd,Downy mildew,BIHAR
+Bottle Gourd,stem blight,UTTAR PRADESH
+Bottle Gourd,Powdery mildew,MADHYA PRADESH
+Brinjal,fruit borer,ODISHA
+Brinjal,aphid,UTTAR PRADESH
+Brinjal,wilting,ODISHA
+Brinjal,caterpillars,CHHATTISGARH
+Brinjal,stem borer,ODISHA
+Broad Bean,blight,WEST BENGAL
+Broad Bean,yellow,WEST BENGAL
+Broad Bean,downy mildew,WEST BENGAL
+Broad Bean,blight,WEST BENGAL
+Broad Bean,sucking pest,ANDHRA PRADESH
+Broccoli,white rust,ANDHRA PRADESH
+Broccoli,leaf spot,JHARKAND
+Broccoli,caterpillar,MAHARASHTRA
+Broccoli,black rot,BIHAR
+Broccoli,cutworm,HIMACHAL PRADESH
+Brown Sarson,aphid,BIHAR
+Brown Sarson,blight,UTTAR PRADESH
+Brown Sarson,mildew,RAJASTHAN
+Brown Sarson,stem rot,UTTAR PRADESH
+Brown Sarson,aphid,RAJASTHAN
+Brussils Sprouts,yellowing,BIHAR
+Brussils Sprouts,aphids,MAHARASHTRA
+Brussils Sprouts,maggots,UTTAR PRADESH
+Brussils Sprouts,cutworm,UTTAR PRADESH
+Brussils Sprouts,nematodes,UTTAR PRADESH
+Butter Pea (Vegetable),Downy mildew,HARYANA
+Butter Pea (Vegetable),Powdery mildew,UTTAR PRADESH
+Butter Pea (Vegetable),Pea rust,MAHARASHTRA
+Butter Pea (Vegetable),Ascochyta blight,JHARKAND
+Butter Pea (Vegetable),White rot,UTTAR PRADESH
+Cabbage,wilt,MAHARASHTRA
+Cabbage,Downy Mildew,ASSAM
+Cabbage,hopper,WEST BENGAL
+Cabbage,caterpillar,MAHARASHTRA
+Cabbage,caterpillars,MADHYA PRADESH
+Capsicum,caterpillar,HARYANA
+Capsicum,root rot,HIMACHAL PRADESH
+Capsicum,sucking pest,HIMACHAL PRADESH
+Capsicum,caterpillar,HIMACHAL PRADESH
+Capsicum,fruit borer,KARNATAKA
+Cardamom,mosaic,MADHYA PRADESH
+Cardamom,leaf spot,MAHARASHTRA
+Cardamom,Damping off,KERALA
+Cardamom,rhizome rot,KARNATAKA
+Cardamom,Leaf blight,KERALA
+Carnation,white fly,MAHARASHTRA
+Carnation,aphid,HIMACHAL PRADESH
+Carnation,aphid,JHARKAND
+Carnation,fungus,HIMACHAL PRADESH
+Carnation,beetle,JAMMU AND KASHMIR
+Carrot,Damping off,RAJASTHAN
+Carrot,Downy mildew,HARYANA
+Carrot,cottony rot,TELANGANA
+Carrot,leaf blight,ODISHA
+Carrot,black rot,PUNJAB
+Cashew,aphid,ANDHRA PRADESH
+Cashew,caterpillar,WEST BENGAL
+Cashew,anthracnose,ODISHA
+Cashew,powdery mildew,KERALA
+Cashew,red rust,TAMILNADU
+Castor (Rehri Rendi Arandi),green caterpillar,RAJASTHAN
+Castor (Rehri Rendi Arandi),blight,RAJASTHAN
+Castor (Rehri Rendi Arandi),termite,RAJASTHAN
+Castor (Rehri Rendi Arandi),wilt,GUJARAT
+Castor (Rehri Rendi Arandi),white termite,GUJARAT
+Cauliflower,black rot,ODISHA
+Cauliflower,DOWNY MILDEW,WEST BENGAL
+Cauliflower,caterpillar,MAHARASHTRA
+Cauliflower,stem rot,ODISHA
+Cauliflower,wilt,HIMACHAL PRADESH
+Chestnut,aphids,MAHARASHTRA
+Chestnut,fruit borer,MAHARASHTRA
+Chestnut,stem borer,ANDHRA PRADESH
+Chestnut,aphids,UTTAR PRADESH
+Chestnut,sucking pest,ANDHRA PRADESH
+Chillies,fruit borer,RAJASTHAN
+Chillies,mite,ODISHA
+Chillies,thirps,ANDHRA PRADESH
+Chillies,blight,ASSAM
+Chillies,aphids,TAMILNADU
+Chinese Cabbage,Downy Mildew,ANDHRA PRADESH
+Chinese Cabbage,hopper,MAHARASHTRA
+Chinese Cabbage,leaf curl,UTTAR PRADESH
+Chinese Cabbage,blight,MAHARASHTRA
+Chinese Cabbage,wilt,ANDHRA PRADESH
+Cinnamon,die back,KERALA
+Cinnamon,blight,MAHARASHTRA
+Cinnamon,sucking pest,MADHYA PRADESH
+Cinnamon,mites,WEST BENGAL
+Cinnamon,caterpillar,ODISHA
+Clove,blight,RAJASTHAN
+Clove,termite,UTTAR PRADESH
+Clove,caterpillar,MAHARASHTRA
+Clove,fungus,GUJARAT
+Clove,yellowing,RAJASTHAN
+Cluster Bean,sucking pest,GUJARAT
+Cluster Bean,mildew,ANDHRA PRADESH
+Cluster Bean,fungal,MADHYA PRADESH
+Cluster Bean,sucking pests,GUJARAT
+Cluster Bean,termite,ODISHA
+Cocoa,root rot,TAMILNADU
+Cocoa,nematodes,TAMILNADU
+Cocoa,canker,KERALA
+Cocoa,stripe,KERALA
+Cocoa,white fly,TAMILNADU
+Coconut,red weevil,TAMILNADU
+Coconut,stem bleeding,KERALA
+Coconut,beetle,ODISHA
+Coconut,blight,BIHAR
+Coconut,canker,ODISHA
+Coffee,mealybug,TAMILNADU
+Coffee,antracnose,KARNATAKA
+Coffee,rotting,KERALA
+Coffee,stem borer,TAMILNADU
+Coffee,rust,TRIPURA
+Coriander,Powdery mildew,WEST BENGAL
+Coriander,Wilt,GUJARAT
+Coriander,Stem gall,RAJASTHAN
+Coriander,Blight disease,UTTAR PRADESH
+Coriander,Stem rot,RAJASTHAN
+Cotton (Kapas),blight,MADHYA PRADESH
+Cotton (Kapas),leaf curl,TELANGANA
+Cotton (Kapas),wilt,HARYANA
+Cotton (Kapas),sucking pest,KARNATAKA
+Cotton (Kapas),root rot,UTTAR PRADESH
+Cowpea (Vegetable),aphids,ODISHA
+Cowpea (Vegetable),root rot,KERALA
+Cowpea (Vegetable),sucking pest,ODISHA
+Cowpea (Vegetable),mosaic,MAHARASHTRA
+Cowpea (Vegetable),wilt,ODISHA
+Crossandra,caterpillar,TAMILNADU
+Crossandra,blight,TAMILNADU
+Crossandra,sucking pest,ANDHRA PRADESH
+Crossandra,mildew,KARNATAKA
+Crossandra,canker,ANDHRA PRADESH
+Cucumber,collar rot,WEST BENGAL
+Cucumber,downy mildew,WEST BENGAL
+Cucumber,wilt,MAHARASHTRA
+Cucumber,whie fly,TELANGANA
+Cucumber,caterpillar,MAHARASHTRA
+Cumin,wilt,GUJARAT
+Cumin,Powdery mildew,MADHYA PRADESH
+Cumin,sucking pest,GUJARAT
+Cumin,damping off,GUJARAT
+Cumin,blight,RAJASTHAN
+Curry Leaf,yellow,UTTAR PRADESH
+Curry Leaf,mealybug,ANDHRA PRADESH
+Curry Leaf,white fly,KERALA
+Curry Leaf,scales,TAMILNADU
+Curry Leaf,leaf spot,TAMILNADU
+Custard Apple,alternaria leaf spot,ODISHA
+Custard Apple,bollworm,KARNATAKA
+Custard Apple,sucking pest,UTTAR PRADESH
+Custard Apple,caterpillar,ODISHA
+Custard Apple,drenching,MAHARASHTRA
+Cymbidium,yellowing,RAJASTHAN
+Cymbidium,brown spot,WEST BENGAL
+Cymbidium,rotting,KERALA
+Cymbidium,mosaic,UTTAR PRADESH
+Cymbidium,damping off,MAHARASHTRA
+DatePalm,wilt,ASSAM
+DatePalm,caterpillar,MADHYA PRADESH
+DatePalm,brown leaf spot,RAJASTHAN
+DatePalm,yellowing,BIHAR
+DatePalm,Khamedj,MADHYA PRADESH
+Drum Stick,thrips,MAHARASHTRA
+Drum Stick,damping off,ANDHRA PRADESH
+Drum Stick,caterpillar,MAHARASHTRA
+Drum Stick,sucking pest,TAMILNADU
+Drum Stick,canker,MAHARASHTRA
+Eculeptous,sucking pest,GUJARAT
+Eculeptous,canker,UTTAR PRADESH
+Eculeptous,root rot,UTTAR PRADESH
+Eculeptous,heart rot,UTTAR PRADESH
+Eculeptous,black mildew,ODISHA
+Fenugreek,catterpillar,MADHYA PRADESH
+Fenugreek,wilt,MAHARASHTRA
+Fenugreek,fungus,MADHYA PRADESH
+Fenugreek,sucking pest,MAHARASHTRA
+Fenugreek,white fly,MADHYA PRADESH
+Fig,rust,MAHARASHTRA
+Fig,white fly,TAMILNADU
+Fig,Anthracnose,MAHARASHTRA
+Fig,red spot,MAHARASHTRA
+Fig,Alternaria rot,MAHARASHTRA
+FingerMillet  (RagiMandika),aphids,KARNATAKA
+FingerMillet  (RagiMandika),blast,TAMILNADU
+FingerMillet  (RagiMandika),blight,UTTAR PRADESH
+FingerMillet  (RagiMandika),wilt,KARNATAKA
+FingerMillet  (RagiMandika),leaf spot,KARNATAKA
+Garden Pea,blight,MAHARASHTRA
+Garden Pea,wilting,MAHARASHTRA
+Garden Pea,purple blotch,UTTAR PRADESH
+Garden Pea,caterpillar,MADHYA PRADESH
+Garden Pea,fruit borer,ODISHA
+Garlic,damping off,MADHYA PRADESH
+Garlic,sucking pest,MADHYA PRADESH
+Garlic,purple blotch,MADHYA PRADESH
+Garlic,aphids,MADHYA PRADESH
+Garlic,white rot,MADHYA PRADESH
+Gerbera,aphids,ODISHA
+Gerbera,thrips,KARNATAKA
+Gerbera,mildew,ODISHA
+Gerbera,caterpillar,MAHARASHTRA
+Gerbera,chewing pest,ODISHA
+Ginger,blight,MAHARASHTRA
+Ginger,caterpillar,MAHARASHTRA
+Ginger,drenching,MAHARASHTRA
+Ginger,rust,MAHARASHTRA
+Ginger,fungus,HARYANA
+Grape,fruit fly,PUNJAB
+Grape,blight,MAHARASHTRA
+Grape,mildew,MAHARASHTRA
+Grape,Anthracnose,RAJASTHAN
+Grape,mealybug,TAMILNADU
+Green Gram (Moong Bean Moong),aphids,MAHARASHTRA
+Green Gram (Moong Bean Moong),blight,MAHARASHTRA
+Green Gram (Moong Bean Moong),caterpillar,MADHYA PRADESH
+Green Gram (Moong Bean Moong),white fly,MADHYA PRADESH
+Green Gram (Moong Bean Moong),sucking pest,MADHYA PRADESH
+Groundnut (pea nutmung phalli),caterpillar,ANDHRA PRADESH
+Groundnut (pea nutmung phalli),termite,GUJARAT
+Groundnut (pea nutmung phalli),root rot,ANDHRA PRADESH
+Groundnut (pea nutmung phalli),white grub,GUJARAT
+Groundnut (pea nutmung phalli),termite,RAJASTHAN
+Guar,wilt,RAJASTHAN
+Guar,yellowing,RAJASTHAN
+Guar,blight,RAJASTHAN
+Guar,fungus,HARYANA
+Guar,sucking pest,RAJASTHAN
+Guava,mealybug,UTTAR PRADESH
+Guava,wilt,RAJASTHAN
+Guava,fruit rot,WEST BENGAL
+Guava,canker,DELHI
+Guava,dieback,RAJASTHAN
+Hazlenut,fungus,GUJARAT
+Hazlenut,thrips,RAJASTHAN
+Hazlenut,blight,UTTAR PRADESH
+Hazlenut,leaf blister,RAJASTHAN
+Hazlenut,Anthracnose,RAJASTHAN
+Indian Squash (TindaRound Melon),blight,RAJASTHAN
+Indian Squash (TindaRound Melon),sucking pest,MAHARASHTRA
+Indian Squash (TindaRound Melon),brown spot,PUNJAB
+Indian Squash (TindaRound Melon),fungus,RAJASTHAN
+Indian Squash (TindaRound Melon),leaf spot,MAHARASHTRA
+Indian rapeseed and mustard (yellow sarson),fungus,ANDHRA PRADESH
+Indian rapeseed and mustard (yellow sarson),blight,UTTAR PRADESH
+Indian rapeseed and mustard (yellow sarson),damping off,BIHAR
+Indian rapeseed and mustard (yellow sarson),rust,UTTAR PRADESH
+Indian rapeseed and mustard (yellow sarson),black rot,RAJASTHAN
+Jack Fruit,fruit rot,CHHATTISGARH
+Jack Fruit,dieback,BIHAR
+Jack Fruit,rust,JHARKAND
+Jack Fruit,leaf spot,MADHYA PRADESH
+Jack Fruit,pink,UTTAR PRADESH
+Jamun,sucking pest,MAHARASHTRA
+Jamun,leaf spot,RAJASTHAN
+Jamun,fungus,PUNJAB
+Jamun,termites,HARYANA
+Jamun,catterpillar,RAJASTHAN
+Jojoba,downy blight,MAHARASHTRA
+Jojoba,catterpillar,UTTAR PRADESH
+Jojoba,leaf blight,UTTAR PRADESH
+Jojoba,mildew,MAHARASHTRA
+Jojoba,leaf rust,UTTAR PRADESH
+Jute,caterpillar,WEST BENGAL
+Jute,aphid,UTTAR PRADESH
+Jute,fungus,BIHAR
+Jute,mite,GUJARAT
+Jute,caterpillar,BIHAR
+Kiwi Fruit,termite,RAJASTHAN
+Kiwi Fruit,fruit rot,ANDHRA PRADESH
+Kiwi Fruit,sucking pest,DELHI
+Kiwi Fruit,mealybug,UTTAR PRADESH
+Kiwi Fruit,leaf spot,DELHI
+Kokum,leaf spot,RAJASTHAN
+Kokum,root rot,MADHYA PRADESH
+Kokum,caterpillar,KERALA
+Kokum,leaf spot,MADHYA PRADESH
+Kokum,root rot,RAJASTHAN
+Lahsoda,leaf spot,RAJASTHAN
+Lahsoda,canker,RAJASTHAN
+Lahsoda,fungus,RAJASTHAN
+Lahsoda,termite,RAJASTHAN
+Lahsoda,root rot,UTTAR PRADESH
+Large Cardamom,rhizome rot,WEST BENGAL
+Large Cardamom,blight,WEST BENGAL
+Large Cardamom,chirkey,SIKKIM
+Large Cardamom,blight,WEST BENGAL
+Large Cardamom,caterpillar,SIKKIM
+Lemon,blight,RAJASTHAN
+Lemon,sucking pest,KARNATAKA
+Lemon,canker,TAMILNADU
+Lemon,white fly,RAJASTHAN
+Lemon,canker,RAJASTHAN
+Lentil (Masur),fungus,MADHYA PRADESH
+Lentil (Masur),yellowing,BIHAR
+Lentil (Masur),thrips,MAHARASHTRA
+Lentil (Masur),aphid,MADHYA PRADESH
+Lentil (Masur),sucking pest,MADHYA PRADESH
+Lettuce,blast,UTTAR PRADESH
+Lettuce,caterpiller,HIMACHAL PRADESH
+Lettuce,fungus,MAHARASHTRA
+Lettuce,jassids,MAHARASHTRA
+Lettuce,blast,WEST BENGAL
+Linseed (alsi),Anthracnose,MADHYA PRADESH
+Linseed (alsi),stem blight,MADHYA PRADESH
+Linseed (alsi),Powdery mildew,ODISHA
+Linseed (alsi),rust,UTTAR PRADESH
+Linseed (alsi),wilt,MADHYA PRADESH
+Litchi,fruit rot,UTTARAKHAND
+Litchi,termite,BIHAR
+Litchi,root rot,WEST BENGAL
+Litchi,anthracnose,WEST BENGAL
+Litchi,fruit rot,BIHAR
+Little Millet (SamaiKutkikodokutki),caterpillar,MAHARASHTRA
+Little Millet (SamaiKutkikodokutki),termites,HARYANA
+Little Millet (SamaiKutkikodokutki),wilt,MAHARASHTRA
+Little Millet (SamaiKutkikodokutki),head smut,ANDHRA PRADESH
+Little Millet (SamaiKutkikodokutki),sucking pest,GUJARAT
+Long Melon,red beetle,RAJASTHAN
+Long Melon,sucking pest,TAMILNADU
+Long Melon,canker,RAJASTHAN
+Long Melon,white fly,UTTAR PRADESH
+Long Melon,leaf curl,UTTAR PRADESH
+Lucerne (Alfalfa),aphid,MAHARASHTRA
+Lucerne (Alfalfa),sucking pests,GUJARAT
+Lucerne (Alfalfa),downy mildew,RAJASTHAN
+Lucerne (Alfalfa),caterpillar,MAHARASHTRA
+Lucerne (Alfalfa),rust,RAJASTHAN
+Maize (Makka),rust,TAMILNADU
+Maize (Makka),catterpillar,MAHARASHTRA
+Maize (Makka),fungus,BIHAR
+Maize (Makka),blight,MADHYA PRADESH
+Maize (Makka),stem borer,TAMILNADU
+Mango,Powdery mildew,BIHAR
+Mango,anthracnose,BIHAR
+Mango,wilt,JHARKAND
+Mango,rust,UTTAR PRADESH
+Mango,canker,UTTAR PRADESH
+Marigold,damping off,UTTAR PRADESH
+Marigold,thrips,ODISHA
+Marigold,aphid,ODISHA
+Marigold,caterpillar,MAHARASHTRA
+Marigold,blight,TRIPURA
+Melon,white fly,UTTAR PRADESH
+Melon,mosaic,HARYANA
+Melon,white fly,GUJARAT
+Melon,sucking pest,MAHARASHTRA
+Melon,aphid,UTTAR PRADESH
+Methi (Fenugreek),fungus,MADHYA PRADESH
+Methi (Fenugreek),leaf spot,RAJASTHAN
+Methi (Fenugreek),aphid,RAJASTHAN
+Methi (Fenugreek),rust,RAJASTHAN
+Methi (Fenugreek),damping off,RAJASTHAN
+Mosambi,yellowing,MAHARASHTRA
+Mosambi,nematode,MAHARASHTRA
+Mosambi,blight,MAHARASHTRA
+Mosambi,thrips,MAHARASHTRA
+Mosambi,wilt,MAHARASHTRA
+Moth Bean (kidney bean deww gram),brown spot,RAJASTHAN
+Moth Bean (kidney bean deww gram),blight,RAJASTHAN
+Moth Bean (kidney bean deww gram),mosaic,RAJASTHAN
+Moth Bean (kidney bean deww gram),root rot,RAJASTHAN
+Moth Bean (kidney bean deww gram),leaf rot,RAJASTHAN
+Mushroom,dry bubble,ODISHA
+Mushroom,wet bubble,HIMACHAL PRADESH
+Mushroom,Brown Blotch,UTTARAKHAND
+Mushroom,Green moulds,HIMACHAL PRADESH
+Mushroom,dry bubble,UTTARAKHAND
+Mustard,aphid,RAJASTHAN
+Mustard,blight,UTTAR PRADESH
+Mustard,rust,RAJASTHAN
+Mustard,powdery mildew,RAJASTHAN
+Mustard,black rot,DELHI
+Napier Grass,caterpillar,MAHARASHTRA
+Napier Grass,leaf hopper,MAHARASHTRA
+Napier Grass,sucking pest,MAHARASHTRA
+Napier Grass,thrips,MAHARASHTRA
+Napier Grass,aphid,MAHARASHTRA
+Oats,fungus,UTTAR PRADESH
+Oats,rust,UTTAR PRADESH
+Oats,scab,PUNJAB
+Oats,smut,UTTAR PRADESH
+Oats,rust,PUNJAB
+Oil palm,sucking pest,ANDHRA PRADESH
+Oil palm,caterpillar,GUJARAT
+Oil palm,stem rot,ANDHRA PRADESH
+Oil palm,blight,ODISHA
+Oil palm,stem borer,ANDHRA PRADESH
+Olive,yellowing,MAHARASHTRA
+Olive,blight,UTTAR PRADESH
+Olive,wilt,UTTAR PRADESH
+Olive,fungus,MAHARASHTRA
+Olive,wilt,KARNATAKA
+Onion,purple blotch,ANDHRA PRADESH
+Onion,blight,MAHARASHTRA
+Onion,thrips,MAHARASHTRA
+Onion,damping off,TAMILNADU
+Onion,root rot,MAHARASHTRA
+Orange,sucking pest,MADHYA PRADESH
+Orange,caterpillar,MAHARASHTRA
+Orange,downy blight,MAHARASHTRA
+Orange,fungus,MADHYA PRADESH
+Orange,damping off,UTTAR PRADESH
+Paddy (Dhan),brown hopper,TAMILNADU
+Paddy (Dhan),blast,BIHAR
+Paddy (Dhan),root rot,RAJASTHAN
+Paddy (Dhan),stem borer,ASSAM
+Paddy (Dhan),stem borer,UTTAR PRADESH
+Papaya,termite,GUJARAT
+Papaya,aphid,RAJASTHAN
+Papaya,anthracnose,HARYANA
+Papaya,mosaic,UTTAR PRADESH
+Papaya,leaf curl,ODISHA
+Pea (Vegetable),fungus,MADHYA PRADESH
+Pea (Vegetable),wilt,UTTAR PRADESH
+Pea (Vegetable),root rot,HIMACHAL PRADESH
+Pea (Vegetable),white rot,HIMACHAL PRADESH
+Pea (Vegetable),sucking pest,ODISHA
+Peach,leaf curl,UTTAR PRADESH
+Peach,powdery mildew,UTTAR PRADESH
+Peach,crown rot,PUNJAB
+Peach,aphid,PUNJAB
+Peach,scab,HIMACHAL PRADESH
+Pearl Millet (BajraBulrush MilletSpiked Millet),downy mildew,RAJASTHAN
+Pearl Millet (BajraBulrush MilletSpiked Millet),smut,RAJASTHAN
+Pearl Millet (BajraBulrush MilletSpiked Millet),rust,RAJASTHAN
+Pearl Millet (BajraBulrush MilletSpiked Millet),ergot,RAJASTHAN
+Pearl Millet (BajraBulrush MilletSpiked Millet),rust,UTTAR PRADESH
+Peas (field peas garden peasmatar),thrips,HIMACHAL PRADESH
+Peas (field peas garden peasmatar),downy mildew,JAMMU AND KASHMIR
+Peas (field peas garden peasmatar),caterpillar,MADHYA PRADESH
+Peas (field peas garden peasmatar),white rust,WEST BENGAL
+Peas (field peas garden peasmatar),rust,UTTAR PRADESH
+Pepper,wilt,KERALA
+Pepper,fungus,KERALA
+Pepper,anthracnose,KERALA
+Pepper,blight,ASSAM
+Pepper,leaf spot,ASSAM
+Pigeon pea (red gramarhartur),yellowing,MAHARASHTRA
+Pigeon pea (red gramarhartur),collar rot,MAHARASHTRA
+Pigeon pea (red gramarhartur),canker,MAHARASHTRA
+Pigeon pea (red gramarhartur),damping off,MAHARASHTRA
+Pigeon pea (red gramarhartur),caterpillar,MAHARASHTRA
+Pineapple,termite,ODISHA
+Pineapple,root rot,UTTAR PRADESH
+Pineapple,fruit rot,KERALA
+Pineapple,yellowing,BIHAR
+Pineapple,mealy bug,KARNATAKA
+Plum,canker,JAMMU AND KASHMIR
+Plum,brown rot,UTTAR PRADESH
+Plum,rust,HIMACHAL PRADESH
+Plum,powdery mildew,PUNJAB
+Plum,mealybug,JAMMU AND KASHMIR
+Pomegranate,fruit spot,MAHARASHTRA
+Pomegranate,anthracnose,MAHARASHTRA
+Pomegranate,leaf curl,BIHAR
+Pomegranate,yellowing,MAHARASHTRA
+Pomegranate,wilt,MAHARASHTRA
+Poplar,blight,PUNJAB
+Poplar,leaf spot,HIMACHAL PRADESH
+Poplar,rust,UTTAR PRADESH
+Poplar,blight,UTTAR PRADESH
+Poplar,powdery mildew,UTTAR PRADESH
+Potato,wilt,PUNJAB
+Potato,blight,UTTAR PRADESH
+Potato,scab,HARYANA
+Potato,canker,ASSAM
+Potato,pink rot,ODISHA
+Pumpkin,sucking pest,MAHARASHTRA
+Pumpkin,powdery mildew,ODISHA
+Pumpkin,mildew,ODISHA
+Pumpkin,red beetle,WEST BENGAL
+Pumpkin,yellowing,ODISHA
+Radish,blight,RAJASTHAN
+Radish,blight,ODISHA
+Radish,caterpiler,UTTAR PRADESH
+Radish,scab,CHHATTISGARH
+Radish,aphid,UTTAR PRADESH
+Rajma (french bean),sucking pest,MAHARASHTRA
+Rajma (french bean),aphid,UTTAR PRADESH
+Rajma (french bean),thrips,MAHARASHTRA
+Rajma (french bean),caterpillar,MAHARASHTRA
+Rajma (french bean),anthracnose,JAMMU AND KASHMIR
+Raya (Indian Mustard),blight,PUNJAB
+Raya (Indian Mustard),downy mildew,BIHAR
+Raya (Indian Mustard),thirips,HARYANA
+Raya (Indian Mustard),sucking pest,RAJASTHAN
+Raya (Indian Mustard),stem rot,UTTAR PRADESH
+Rubber,termite,KERALA
+Rubber,leaf blight,KERALA
+Rubber,leaf fall,UTTAR PRADESH
+Rubber,shoot rot,KERALA
+Rubber,fungus,KERALA
+Safed Musli,fungus,MADHYA PRADESH
+Safed Musli,leaf spot,MADHYA PRADESH
+Safed Musli,blight,MADHYA PRADESH
+Safed Musli,leaf spot,UTTAR PRADESH
+Safed Musli,blight,RAJASTHAN
+Saffron,aphid,RAJASTHAN
+Saffron,aphid,UTTAR PRADESH
+Saffron,blight,RAJASTHAN
+Saffron,blotch,RAJASTHAN
+Saffron,blotch,TAMILNADU
+Sandal Wood,catterpillar,HIMACHAL PRADESH
+Sandal Wood,scales,TAMILNADU
+Sandal Wood,seedling rot,HARYANA
+Sandal Wood,fungus,HARYANA
+Sandal Wood,mealy bug,TAMILNADU
+Sorghum (JowarGreat Millet),caterpillar,MAHARASHTRA
+Sorghum (JowarGreat Millet),wilt,MAHARASHTRA
+Sorghum (JowarGreat Millet),aphids,MAHARASHTRA
+Sorghum (JowarGreat Millet),stem borer,MAHARASHTRA
+Sorghum (JowarGreat Millet),caterpillar,GUJARAT
+Soybean (bhat),redmites,MAHARASHTRA
+Soybean (bhat),stem borer,MAHARASHTRA
+Soybean (bhat),caterpillar,MAHARASHTRA
+Soybean (bhat),sucking pest,MAHARASHTRA
+Soybean (bhat),blight,MAHARASHTRA
+Spinach (Palak),downy mildew,ANDHRA PRADESH
+Spinach (Palak),white fly,MAHARASHTRA
+Spinach (Palak),anthracnose,UTTAR PRADESH
+Spinach (Palak),leaf spot,UTTARAKHAND
+Spinach (Palak),damping off,CHHATTISGARH
+Stevia,fungus,MADHYA PRADESH
+Stevia,root rot,UTTAR PRADESH
+Stevia,stem rot,WEST BENGAL
+Stevia,root rot,MADHYA PRADESH
+Stevia,stem rot,ANDHRA PRADESH
+Strawberry,leaf spot,WEST BENGAL
+Strawberry,stem rot,WEST BENGAL
+Strawberry,wilt,WEST BENGAL
+Strawberry,termite,RAJASTHAN
+Strawberry,root rot,HIMACHAL PRADESH
+Sugarcane (Noble Cane),smut,UTTAR PRADESH
+Sugarcane (Noble Cane),mosaic,UTTAR PRADESH
+Sugarcane (Noble Cane),red rot,UTTAR PRADESH
+Sugarcane (Noble Cane),leaf scald,UTTAR PRADESH
+Sugarcane (Noble Cane),wilt,UTTAR PRADESH
+Sunflower (suryamukhi),caterpillar,TAMILNADU
+Sunflower (suryamukhi),blight,PUNJAB
+Sunflower (suryamukhi),Alternaria,KARNATAKA
+Sunflower (suryamukhi),rust,KARNATAKA
+Sunflower (suryamukhi),white mold,WEST BENGAL
+Sweet Potato,mold rot,CHHATTISGARH
+Sweet Potato,catterpillar,MAHARASHTRA
+Sweet Potato,white gurb,RAJASTHAN
+Sweet Potato,catterpillar,HIMACHAL PRADESH
+Sweet Potato,termite,RAJASTHAN
+Tea,termite,ASSAM
+Tea,red rust,ASSAM
+Tea,mite,ASSAM
+Tea,yellowing,ASSAM
+Tea,catterpillar,WEST BENGAL
+Teak,blight,TAMILNADU
+Teak,catterpillar,MAHARASHTRA
+Teak,rust,ODISHA
+Teak,powdery mildew,BIHAR
+Teak,rust,UTTAR PRADESH
+Tobacco,fungus,GUJARAT
+Tobacco,damping off,UTTAR PRADESH
+Tobacco,leaf blight,UTTAR PRADESH
+Tobacco,wilt,UTTAR PRADESH
+Tobacco,mosaic,DELHI
+Tomato,blight,HIMACHAL PRADESH
+Tomato,mealybug,TAMILNADU
+Tomato,sucking pest,MADHYA PRADESH
+Tomato,wilt,HIMACHAL PRADESH
+Tomato,blight,ANDHRA PRADESH
+Turmeric,leaf spot,ANDHRA PRADESH
+Turmeric,dry rot,MAHARASHTRA
+Turmeric,wilt,MAHARASHTRA
+Turmeric,blight,MAHARASHTRA
+Turmeric,leaf spot,TAMILNADU
+Turnip (Saljam),sucking pest,GUJARAT
+Turnip (Saljam),blight,RAJASTHAN
+Turnip (Saljam),fungus,GUJARAT
+Turnip (Saljam),damping off,BIHAR
+Turnip (Saljam),cercospora spot,ASSAM
+Vanilla,stem rot,KERALA
+Vanilla,thrips,RAJASTHAN
+Vanilla,bean rot,KERALA
+Vanilla,mosaic,KERALA
+Vanilla,fungus,KERALA
+Watermelon,fungus,GUJARAT
+Watermelon,mite,TELANGANA
+Watermelon,beetle,ODISHA
+Watermelon,leaf curl,ODISHA
+Watermelon,sucking pest,TAMILNADU
+Wheat,powdery mildew,PUNJAB
+Wheat,termite,RAJASTHAN
+Wheat,fungus,MADHYA PRADESH
+Wheat,black rust,RAJASTHAN
+Wheat,yellow rust,HARYANA
+White Clover (Shaftal),fungus,UTTAR PRADESH
+White Clover (Shaftal),mosaic,PUNJAB
+White Clover (Shaftal),chewing pest,ODISHA
+White Clover (Shaftal),root rot,PUNJAB
+White Clover (Shaftal),aphids,ANDHRA PRADESH
+fodder maize,leaf spot,GUJARAT
+fodder maize,stem borer,PUNJAB
+fodder maize,blight,PUNJAB
+fodder maize,rust,TAMILNADU
+fodder maize,cutworm,JAMMU AND KASHMIR
+fodder sorghum,downy mildew,TAMILNADU
+fodder sorghum,smut,PUNJAB
+fodder sorghum,stem borer,PUNJAB
+fodder sorghum,termite,RAJASTHAN
+fodder sorghum,fungus,RAJASTHAN
+lobia,yellowing,BIHAR
+lobia,aphid,PUNJAB
+lobia,sucking pest,UTTAR PRADESH
+lobia,blight,HIMACHAL PRADESH
+lobia,thrips,CHHATTISGARH
