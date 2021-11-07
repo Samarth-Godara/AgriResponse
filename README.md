@@ -1,5 +1,5 @@
 # AgriResponse
-Repository for dataset, models and question bank developed in the study of AgriResponse.
+Repository for dataset, models and question bank developed in the AgriResponse study.
 
 Link to download the developed knowledge base : 
 
