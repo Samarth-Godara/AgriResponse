@@ -16,3 +16,5 @@ Records related to Weather enquiries in the initial database : 10,937,643
 Total files merged : 55,844
 
 Dataset collected from : March, 2013 - February, 2021
+
+Total #crops in KB : 282
